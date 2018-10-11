@@ -1,14 +1,3 @@
-"""
-Algoritmos y Programación 1
-TP3: SCEQL
-Integrantes: 
-1.  Nombre: Diego Pereyra
-    Padrón: 102072 (cbc09)
-2.  Nombre: Gabriela Méndez
-    Padrón: 101741
-Catedra:
-Practica: Barbara
-"""
 from clases import * 
 import argparse
 
